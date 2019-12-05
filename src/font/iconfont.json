@@ -1,0 +1,51 @@
+{
+  "id": "1531314",
+  "name": "juanpiApp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "915709",
+      "name": "首页 (2)",
+      "font_class": "shouye2",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "2988685",
+      "name": "9.9包邮",
+      "font_class": "9",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3439628",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7497009",
+      "name": "品牌清仓",
+      "font_class": "pinpaiqingcang",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "7598757",
+      "name": "我 的",
+      "font_class": "wodedangxuan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10278668",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
